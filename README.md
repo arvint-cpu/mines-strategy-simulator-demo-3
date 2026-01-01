@@ -59,4 +59,4 @@ This demo is the bridge between the earlier console versions and the final strat
 Make sure you have **Python 3.9+** installed.
 
 ```bash
-python demo3.py
+python main.py
